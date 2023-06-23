@@ -1,6 +1,6 @@
 # Laurence Nickel Bachelor Thesis 2023
 
-Using Machine Learning Techniques To Identify The Key Sites Of DNA Methylation That Affect Gene Expression In Brain Cancer.
+Using Machine Learning Techniques To Identify The Key Sites Of DNA Methylation That Affect Gene Expression In Glioblastoma.
 
 ## Table of Contents
 
